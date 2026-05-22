@@ -71,15 +71,12 @@ I'm a technologist and home cook who `cooks` his own tools, writes his own frame
 ## Stats
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dlzi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2aa198&icon_color=1e6fa8&text_color=8b949e&include_all_commits=true&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlzi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2aa198&text_color=8b949e&langs_count=6" />
-
-<br/>
-
-[![Streak](https://streak-stats.demolab.com?user=dlzi&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2aa198&fire=1e6fa8&currStreakLabel=2aa198)](https://github.com/dlzi)
-
+[![Streak](https://streak-stats.demolab.com?user=dlzi&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2aa198&fire=1e6fa8&currStreakLabel=2aa198&sideLabels=6e8090&dates=6e8090)](https://github.com/dlzi)
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=dlzi&title=Commits,Repositories,Stars,PullRequest&theme=darkhub&no-frame=true&column=4&margin-w=8)](https://github.com/dlzi)
+ 
 </div>
+
 
 ---
 
