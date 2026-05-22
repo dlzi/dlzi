@@ -71,10 +71,11 @@ I'm a technologist and home cook who `cooks` his own tools, writes his own frame
 ## Stats
 
 <div align="center">
+
 [![Streak](https://streak-stats.demolab.com?user=dlzi&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2aa198&fire=1e6fa8&currStreakLabel=2aa198&sideLabels=6e8090&dates=6e8090)](https://github.com/dlzi)
- 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=dlzi&title=Commits,Repositories,Stars,PullRequest&theme=darkhub&no-frame=true&column=4&margin-w=8)](https://github.com/dlzi)
- 
+
 </div>
 
 
