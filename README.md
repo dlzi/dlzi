@@ -30,7 +30,7 @@ I'm a technologist and home cook who `cooks` his own tools, writes his own frame
 | 🔧 | [**phmate**](https://github.com/dlzi/phmate) | Lightweight manager for PHP's built-in dev server |
 | 🗄️ | [**sqmate**](https://github.com/dlzi/sqmate) | Lightweight manager for portable MySQL/MariaDB installations for local development |
 | 🚀 | [**gog**](https://github.com/dlzi/gog) | Fast, silent, non-interactive Git workflow helper — does the obvious safe thing or stops early |
-| 📈 | [**Organic Growth Engine**](https://github.com/dlzi/organic-growth-engine) | Python-based SEO audit and organic growth automation engine |
+| 📈 | [**Organic Growth Engine**](https://github.com/dlzi/organic-growth-engine) | Tutorial about SEO and organic growth automation engine |
 | **🧩 ProcessWire** | [**a bunch of stuff**](https://processwire.com/modules/author/daniel-zilli/) | My contribution to ProcessWire ecosystem |
 
 ---
