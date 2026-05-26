@@ -71,15 +71,6 @@ I'm a technologist and home cook who `cooks` his own tools, writes his own frame
 
 <div align="center">
 
-[![Streak](https://streak-stats.demolab.com?user=dlzi&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2aa198&fire=1e6fa8&currStreakLabel=2aa198&sideLabels=6e8090&dates=6e8090)](https://github.com/dlzi)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dlzi&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dlzi&title=Commits,Repositories,Stars,PullRequest&theme=darkhub&no-frame=true&column=4&margin-w=8)](https://github.com/dlzi)
-
-</div>
-
-
----
-
-<div align="center">
-<sub><i>"Build the tool. Then build with the tool."</i></sub>
 </div>
