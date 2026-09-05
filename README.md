@@ -38,7 +38,7 @@ I'm a technologist and home cook who `cooks` his own tools, writes his own frame
 ## Timeline
 
 ```
-2026 ──▶  CRO                   Desker · B2B SaaS / AEC sector        🇧🇷
+2026      E-commerce Manager    UPABR                                 🇧🇷
 2024      Head of Projects      Alpina Digital                        🇧🇷
 2022      Sr. Web Manager       boost.ai · Conversational AI          🇳🇴
 2018      CTO & Co-founder      Collepedia · NIA-funded startup       🇹🇭
